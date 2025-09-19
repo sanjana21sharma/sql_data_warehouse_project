@@ -109,8 +109,15 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I’m **Sanjana Sharma**, passionate about data engineering, analytics, and building modern data solutions.  
+Hi there! I’m **Sanjana Sharma**, passionate about analytics and using data to uncover meaningful insights that support informed decision-making.  
+
+This project focuses on building a modern data warehouse and applying analytics to understand customer behavior, product performance, and sales trends. It demonstrates how raw data can be transformed into business-ready insights through structured data modeling and SQL-based reporting.  
+
 You can connect with me and explore more of my work here:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjana21sharma)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-sharma-/)
+
+---
+
+<sub>Credits: Inspired by the tutorial of **Baraa Khatib Salkini**, also known as **Data With Baraa**, an IT professional and passionate YouTuber.</sub>
